@@ -67,5 +67,5 @@ netlify deploy
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For any queries, reach out at **your-email@example.com** or open an issue.
+For any queries, reach out at **royayush2099@gmail.com** or open an issue.
 
